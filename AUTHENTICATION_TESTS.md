@@ -15,3 +15,4 @@ This branch contains automated tests for CRM authorization functionality.
 - JUnit 5 framework
 - Allure reports
 
+ 
