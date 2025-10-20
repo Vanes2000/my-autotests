@@ -1,0 +1,1 @@
+{"uuid":"d62099e2-9493-4851-b47c-b8940288d93e","name":"crm.tests.AuthorizationTests","children":["05528711-c28d-404c-a385-65010e8ef623"],"befores":[{"name":"downloadDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1760975043094,"stop":1760975043450}],"afters":[],"start":1760975043058,"stop":1760975048587}

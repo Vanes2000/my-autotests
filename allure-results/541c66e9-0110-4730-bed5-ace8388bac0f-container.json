@@ -1,0 +1,1 @@
+{"uuid":"541c66e9-0110-4730-bed5-ace8388bac0f","name":"crm.tests.BasedTest.setUp","children":["db1481b3-bc44-4519-a3bc-92cacc2c3eff"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1760974715600,"stop":1760974718722}],"afters":[],"start":1760974715600,"stop":1760974718723}
